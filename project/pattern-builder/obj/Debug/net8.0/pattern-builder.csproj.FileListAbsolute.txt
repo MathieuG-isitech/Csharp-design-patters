@@ -1,0 +1,15 @@
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.AssemblyInfoInputs.cache
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.AssemblyInfo.cs
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.csproj.CoreCompileInputs.cache
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.sourcelink.json
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\bin\Debug\net8.0\pattern-builder.exe
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\bin\Debug\net8.0\pattern-builder.deps.json
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\bin\Debug\net8.0\pattern-builder.runtimeconfig.json
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\bin\Debug\net8.0\pattern-builder.dll
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\bin\Debug\net8.0\pattern-builder.pdb
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.dll
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\refint\pattern-builder.dll
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.pdb
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\pattern-builder.genruntimeconfig.cache
+C:\code\csharp\Csharp-design-patters\project\pattern-builder\obj\Debug\net8.0\ref\pattern-builder.dll

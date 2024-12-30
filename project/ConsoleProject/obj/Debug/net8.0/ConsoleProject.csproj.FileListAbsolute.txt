@@ -1,0 +1,15 @@
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfoInputs.cache
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.AssemblyInfo.cs
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.sourcelink.json
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\bin\Debug\net8.0\ConsoleProject.exe
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\bin\Debug\net8.0\ConsoleProject.deps.json
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\bin\Debug\net8.0\ConsoleProject.runtimeconfig.json
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\bin\Debug\net8.0\ConsoleProject.dll
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\bin\Debug\net8.0\ConsoleProject.pdb
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.dll
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\refint\ConsoleProject.dll
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.pdb
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ConsoleProject.genruntimeconfig.cache
+C:\code\csharp\Csharp-design-patters\project\ConsoleProject\obj\Debug\net8.0\ref\ConsoleProject.dll
