@@ -1,0 +1,2 @@
+On commence avec un café simple à 2 euro et on peut choisir d'ajouter du lait ou du sucre.
+Donc, pour décorer notre café, on surcharge la valeur de base de GetCost() avec le prix du lait et du café. On surcharge également la valeur de GetDescription() en ajoutant la chaine de caractère "lait" ou "café" ou les deux.
