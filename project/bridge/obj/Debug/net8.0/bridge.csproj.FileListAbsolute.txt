@@ -1,0 +1,5 @@
+C:\code\csharp\Csharp-design-patters\project\bridge\obj\Debug\net8.0\bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csharp\Csharp-design-patters\project\bridge\obj\Debug\net8.0\bridge.AssemblyInfoInputs.cache
+C:\code\csharp\Csharp-design-patters\project\bridge\obj\Debug\net8.0\bridge.AssemblyInfo.cs
+C:\code\csharp\Csharp-design-patters\project\bridge\obj\Debug\net8.0\bridge.csproj.CoreCompileInputs.cache
+C:\code\csharp\Csharp-design-patters\project\bridge\obj\Debug\net8.0\bridge.sourcelink.json
